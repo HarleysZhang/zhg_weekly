@@ -5,8 +5,8 @@ export const SITE = {
   keywords: 'HarleysZhang,Weekly,Blog,人工智能,大模型,深度学习, cuda/triton',
   icon: 'https://gw.alicdn.com/imgextra/i2/O1CN01m9YYjS1QBeW5DOm3I_!!6000000001938-2-tps-400-400.png',
   pic: 'https://gw.alicdn.com/imgextra/i4/O1CN010j3h201UDilmn716N_!!6000000002484-2-tps-1280-640.png',
-  homePage: 'https://weekly.harleyszhang.fun',
-  blogPage: 'https://harleyszhang.fun/',
+  homePage: 'https://zhg-weekly.vercel.app/',
+  blogPage: 'https://www.cnblogs.com/armcvai',
   githubId: 'HarleysZhang',
   repo: 'harleyszhang/zhg_weekly',
 };
